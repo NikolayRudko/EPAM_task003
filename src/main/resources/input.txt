@@ -1,0 +1,7 @@
+12.6 Subway
+6.9 Bus
+6.8 Trolleybus
+19.8 Tramway
+17.9 Bus
+4.7 Tramway
+23.1 Subway
